@@ -1,3 +1,5 @@
+console.log("=================coding_challange_1_2==============");
+
 let markMass = 78;
 let markHeight = 1.69;
 let johnMass = 92;

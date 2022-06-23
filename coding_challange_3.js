@@ -1,3 +1,5 @@
+console.log("=================coding_challange_3==============");
+
 let dolphin = (96+108+89)/3;
 let kolas = (88+91+110)/3;
 
