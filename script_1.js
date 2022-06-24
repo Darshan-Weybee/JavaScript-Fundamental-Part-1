@@ -102,3 +102,14 @@ if(hasLicence && hasVision && !isTired){
 }else{
     console.log("other can drive");
 }
+
+
+const myAge1 = 23;
+myAge1>=18 ? console.log("i like to drink wine") : console.log("i like to drink water");
+
+const drink = myAge1>=18 ? 'wine' : 'water';
+console.log(drink);
+
+console.log(`I like to drink ${myAge1>=18 ? 'wine' : 'water'}`);
+
+
